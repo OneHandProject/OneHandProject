@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OneHandProject
+- 👀 I’m interested in C# and PHP
+- 🌱 I’m currently learning linux scripting
